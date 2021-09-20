@@ -1,0 +1,12 @@
+C:\Users\gabri\Documents\Decola Tech\ProjetoDaMentoria\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.deps.json
+C:\Users\gabri\Documents\Decola Tech\ProjetoDaMentoria\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.dll
+C:\Users\gabri\Documents\Decola Tech\ProjetoDaMentoria\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\ref\AgenciaBancaria.Dominio.dll
+C:\Users\gabri\Documents\Decola Tech\ProjetoDaMentoria\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.pdb
+C:\Users\gabri\Documents\Decola Tech\ProjetoDaMentoria\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Decola Tech\ProjetoDaMentoria\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Decola Tech\ProjetoDaMentoria\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Decola Tech\ProjetoDaMentoria\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfo.cs
+C:\Users\gabri\Documents\Decola Tech\ProjetoDaMentoria\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Decola Tech\ProjetoDaMentoria\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.dll
+C:\Users\gabri\Documents\Decola Tech\ProjetoDaMentoria\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\ref\AgenciaBancaria.Dominio.dll
+C:\Users\gabri\Documents\Decola Tech\ProjetoDaMentoria\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.pdb
